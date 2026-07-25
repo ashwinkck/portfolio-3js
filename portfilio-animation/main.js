@@ -61,7 +61,7 @@ Array(200).fill().forEach(addStar);
 // Background
 
 const video = document.createElement('video');
-video.src = 'space.mp4'; // Make sure to add a 'space.mp4' file to your folder!
+video.src = 'midnight-in-the-future-city-moewalls.mp4'; // Make sure to add a 'space.mp4' file to your folder!
 video.loop = true;
 video.muted = true; // Required for autoplay in browsers
 video.play();
