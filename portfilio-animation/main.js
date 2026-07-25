@@ -79,7 +79,7 @@ scene.add(jeff);
 
 // Moon
 
-const moonTexture = new THREE.TextureLoader().load('moon.jpg');
+const moonTexture = new THREE.TextureLoader().load('robot.jpg');
 const normalTexture = new THREE.TextureLoader().load('normal.jpg');
 
 const moon = new THREE.Mesh(
